@@ -10,7 +10,7 @@ data.ffmpeg and texture.jpg is in the init(data) function for you to modify
 
 2. Use square images please! After all, it is for instagram.
 
-3. make sure to download any library you current do not have.
+3. make sure to download any libraries you currently do not have.
 #audio-related imports
 from pydub import AudioSegment
 import soundfile as sf
